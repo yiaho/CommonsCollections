@@ -1,0 +1,3 @@
+# CommonsCollections
+CC1-7+CommonsBeanutils1
+自己整理写的CC1-7和CommonsBeanutils1反序列化链，比起ysoserial比较好理解，里面注释了调用链等
